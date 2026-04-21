@@ -1,2 +1,2 @@
-# bubblemap-maker
-Ein Tool zum Erstellen beliebiger Bubble Maps
+# blubblemap-maker
+Ein Tool zum erstellen beliebiger Bubble Maps
